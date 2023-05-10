@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5U0NQKQD0xHCds29g41MkIdp7HUslTPNQ/omjsEOOgPKu0+UEb1GNdZMfxd3GXUEUwZuua4lna32uPdmmGRcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nwfp2048\\Documents\\Projects\\QuestPDF_POC\\QuestPDF_POC\\QuestPDF_POC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\questpdf\\2022.12.5\\questpdf.2022.12.5.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\nwfp2048\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
